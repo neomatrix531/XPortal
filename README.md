@@ -1,4 +1,4 @@
-# DroidDesk
+# XPortal
 
 Run a full Linux desktop on any Android phone. Not a terminal. Not an emulator. A complete desktop environment with direct kernel access -- VS Code, Blender, Metasploit, local AI, all of it.
 
@@ -27,7 +27,7 @@ Everything below has been tested and confirmed working:
 - **Wireshark** -- Full network analysis, every packet and protocol.
 - **Metasploit** -- Pentesting framework, runs fine.
 - **Local AI** -- Offline LLM inference, 5+ tokens/second, no API needed.
-
+**Firefox** -- Runs so smooth
 If it runs on Ubuntu, it runs here.
 
 ## How It Works
