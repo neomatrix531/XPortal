@@ -28,7 +28,7 @@ Everything below has been tested and confirmed working:
 - **Metasploit** -- Pentesting framework, runs fine.
 - **Local AI** -- Offline LLM inference, 5+ tokens/second, no API needed.
 - **Firefox** -- Runs so smooth
-- If it runs on Ubuntu, it runs here. --
+- If it runs on Ubuntu, it runs here.
 
 ## How It Works
 
