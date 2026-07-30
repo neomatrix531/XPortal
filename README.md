@@ -27,7 +27,7 @@ Everything below has been tested and confirmed working:
 - **Wireshark** -- Full network analysis, every packet and protocol.
 - **Metasploit** -- Pentesting framework, runs fine.
 - **Local AI** -- Offline LLM inference, 5+ tokens/second, no API needed.
-**Firefox** -- Runs so smooth
+- **Firefox** -- Runs so smooth
 If it runs on Ubuntu, it runs here.
 
 ## How It Works
