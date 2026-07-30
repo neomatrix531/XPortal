@@ -52,8 +52,7 @@ Download the latest release APK from the Releases tab and sideload it to begin.
 ## Requirements
 
 - Any Android phone (ARM64)
-- [Termux](https://f-droid.org/en/packages/com.termux/) (install from F-Droid, not Play Store)
-- [Termux-X11](https://github.com/termux/termux-x11/releases/tag/nightly) (for on-phone display)
+- Install the app after
 
 ### For Monitor Output ( Optional )
 
